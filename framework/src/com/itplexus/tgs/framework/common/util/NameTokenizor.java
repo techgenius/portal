@@ -9,7 +9,6 @@ public class NameTokenizor {
 		for (String data : result)
 			;//System.out.println(data);
 		
-	//	System.out.println("Data :"+result);
 		return result;
 	}
 
