@@ -6,7 +6,7 @@ public class NameTokenizor {
 
 	public String[] getNamesInTokens(String name) {
 		String[] result = name.split(" ");
-		for (String data : result)
+	//	for (String data : result)
 			;//System.out.println(data);
 		
 		return result;
