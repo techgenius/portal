@@ -7,7 +7,7 @@ import com.itplexus.tgs.framework.common.util.NameTokenizor;
 
 public class TestClass {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		NameTokenizor nameTkens = new NameTokenizor();
 		Scanner sc = new Scanner(System.in);
